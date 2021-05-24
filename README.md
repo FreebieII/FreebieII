@@ -1,16 +1,23 @@
-### Hi there 👋
+### WASSUP
+Welcome to my cringey readme file!!11!
 
-<!--
-**FreebieII/FreebieII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+I like playing minecraft using [BatMod Client](https://batmod.com) , Taking Photos of animals and exploring unknown areas irl :) 
 
-Here are some ideas to get you started:
+## If you have any questions, contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: Freebie#6865
+Email: pillowdevelopment@gmail.com
+
+## Languages I kode in
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freebieii&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+![Freebie's GitHub stats](https://github-readme-stats.vercel.app/api?username=freebieii&count_private=true&show_icons=true&theme=great-gatsby)
+
+[![Really Cool Repo](https://github-readme-stats.vercel.app/api/pin/?username=freebieii&repo=Bee-Movie-Script-Spammer&theme=blue-green)](https://github.com/FreebieII/Bee-Movie-Script-Spammer)
+
