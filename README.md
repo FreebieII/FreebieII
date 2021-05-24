@@ -2,7 +2,7 @@
 Welcome to my cringey readme file!!11!
 
 ## Interests
-I like playing minecraft using [BatMod Client](https://batmod.com) , Taking Photos of animals and exploring unknown areas irl :) 
+I like playing minecraft using [BatMod Client](https://batmod.com) made by [@CoffeeBunny](https://github.com/CoffeeBunny) , Taking Photos of animals and exploring unknown areas irl :) 
 
 ## If you have any questions, contact me:
 
