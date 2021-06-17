@@ -6,7 +6,7 @@ I like playing minecraft using [BatMod Client](https://batmod.com) made by [@Cof
 
 ## If you have any questions, contact me:
 
-Discord: Freebie#6865
+Discord: Freebie#0005
 Email: pillowdevelopment@gmail.com
 
 ## Languages I kode in
