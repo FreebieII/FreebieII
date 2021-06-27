@@ -13,9 +13,9 @@ Email: pillowdevelopment@gmail.com
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freebieii&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+[![JLWs Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobWoolbright&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+![JLWs's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobWoolbright&count_private=true&show_icons=true&theme=great-gatsby)
 
 ![Freebie's GitHub stats](https://github-readme-stats.vercel.app/api?username=freebieii&count_private=true&show_icons=true&theme=great-gatsby)
 
