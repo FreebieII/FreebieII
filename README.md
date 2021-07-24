@@ -2,12 +2,11 @@
 Welcome to my readme file!!11!
 
 ## Interests
-I like playing minecraft using [BatMod Client](https://batmod.com) made by [@CoffeeBunny](https://github.com/CoffeeBunny) , taking Photos of animals and exploring unknown areas irl :) 
+Walking around
 
 ## If you have any questions, contact me:
 
-Discord: Freebie#1616
-Email: [pillowdevelopment@gmail.com](mailto:pillowdevelopment@gmail.com)
+Discord: Quiver#1616
 
 ## Languages I kode in
 
