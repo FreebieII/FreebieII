@@ -6,7 +6,7 @@ Walking around
 
 ## If you have any questions, contact me:
 
-Discord: Quiver#1616
+### Discord: Freebie#1616
 
 ## Languages I kode in
 
