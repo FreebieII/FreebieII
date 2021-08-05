@@ -26,11 +26,13 @@ Walking around, playing minecraft, learning random facts, and koding discord bot
 </p>
 
 
-## These stuff looked cool
+## Stuff
+
+<img src="https://readme-github-stats.now.sh/api/wakatime/?username=Freebie0005&theme=blue-green&show&icons=true"></center>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freebieii&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![Freebie's GitHub stats](https://github-readme-stats.vercel.app/api?username=freebieii&count_private=true&show_icons=true&theme=great-gatsby)
+![Freebie's GitHub stats](https://github-readme-stats.vercel.app/api?username=freebieii&count_private=true&show_icons=true&theme=blue-green)
 
 
 
