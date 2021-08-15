@@ -27,6 +27,8 @@ Walking around, playing minecraft, learning random facts, and koding discord bot
 
 
 ## Stuff
+### Weekly Wakatime Stats
+
 <center>
 <a href="https://wakatime.com/@Freebie0005">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Freebie0005&show_icons=true&hide_border=false&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
@@ -34,6 +36,7 @@ Walking around, playing minecraft, learning random facts, and koding discord bot
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freebieii&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200)](https://github.com/anuraghazra/github-readme-stats)
 
+  
 ![Freebie's GitHub stats](https://github-readme-stats.vercel.app/api?username=freebieii&count_private=true&show_icons=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200)
  </center>
 
