@@ -3,8 +3,6 @@
 </p>
 
 ### WASSUP
-Welcome to my readme file!!11!
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=FreebieII.FreebieII)
 [![Github](https://img.shields.io/github/followers/FreebieII?label=Follow&style=social)](https://github.com/FreebieII)
 
