@@ -5,7 +5,7 @@
 ### WASSUP
 ![](https://visitor-badge.laobi.icu/badge?page_id=FreebieII.FreebieII)
 [![Github](https://img.shields.io/github/followers/FreebieII?label=Follow&style=social)](https://github.com/FreebieII)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3609IG)
 ## Interests
 Walking around, playing minecraft, learning random facts, and koding discord bots 🥣
 
@@ -37,7 +37,8 @@ Walking around, playing minecraft, learning random facts, and koding discord bot
   
 ![Freebie's GitHub stats](https://github-readme-stats.vercel.app/api?username=freebieii&count_private=true&show_icons=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200)
  </center>
-
+ 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3609IG)
 
 
 
