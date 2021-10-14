@@ -11,7 +11,7 @@ Walking around, playing minecraft, learning random facts, and koding discord bot
 
 ## If you have any questions, contact me:
 
-### Discord: Freebie#4418
+### Discord: Freebie#5555
 
 
 ## Tools and Languages
