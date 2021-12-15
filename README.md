@@ -11,7 +11,7 @@ Walking around, playing minecraft, learning random facts, and koding discord bot
 
 ## If you have any questions, contact me:
 
-### Discord:Freebie#0004 <br>
+### Discord:freebie#0004 <br>
 
 <img align="middle" src="https://discord.c99.nl/widget/theme-2/744998591365513227.png">
 
