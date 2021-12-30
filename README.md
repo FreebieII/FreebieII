@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/FreebieII?label=Follow&style=social)](https://github.com/FreebieII)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3609IG)
 ## Interests
-Walking around, playing minecraft, learning random facts, and koding discord bots 🥣
+Formula 1, playing minecraft, learning random facts, and koding discord bots 🥣
 
 ## If you have any questions, contact me:
 
