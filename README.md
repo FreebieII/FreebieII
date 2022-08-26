@@ -31,7 +31,7 @@
 <a href="mailto:fred.zapke@outlook.com" target="_blank"><br>
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /></a><br>
 
-[**My Website**](https://freebie.codes)
+[**My Website**](https://freebie.lol/)
 
 
 
@@ -56,4 +56,4 @@
 <img src="https://cdn.discordapp.com/attachments/863842742195322920/871857022612697138/0b2f8f4c34bb02bfcdfd77f04824978a.gif" alt="GIF" height="150" style="vertical-align:center; margin:10px">
 </p>
 
-https://freebie.codes
+https://freebie.lol/
