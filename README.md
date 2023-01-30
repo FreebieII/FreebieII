@@ -9,7 +9,8 @@
 # Big Projects
 - I have several bots that I am maintaining and improving on a weekly basis, I have never had an unhappy customer and I hope to keep it that way! 
 
--🌟 **LewisBot:** One of my largest projects yet which I am so grateful to lead. LewisBot is a Discord bot I am developing for the aspiring (and inspiring) tech youtuber, Lewis Menelaws. [**https://www.youtube.com/c/CodingwithLewis/**](https://youtu.be/3gjcY_00U1w) { [*Contact Lewis*](mailto:hi@lewismenelaws.com) }
+Featured:
+-🌟 **Ogiroid:** Ogiroid is a Discord bot for aspiring (and inspiring) tech youtuber, Lewis Menelaws. [**https://www.youtube.com/c/CodingwithLewis/**](https://youtu.be/3gjcY_00U1w) { [*Contact Lewis*](mailto:hi@lewismenelaws.com) }
 
 
 
