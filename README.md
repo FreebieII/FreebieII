@@ -43,7 +43,7 @@ Featured:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freebieii&bg_color=1D223C&title_color=e7c8a2&text_color=fde7c6&icon_color=2596be)](https://github.com/anuraghazra/github-readme-stats)
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika&color=%23e7c8a2&size=30&duration=7000&center=true&multiline=true&width=620&height=90&lines=+Hey%2C+Enjoy+my+work?;+Feel+free+to+buy+me+a+coffee!)](https://github.com/JasonLovesDoggo)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika&color=%23e7c8a2&size=30&duration=7000&center=true&multiline=true&width=620&height=90&lines=+Hey%2C+Enjoy+my+work?;+Feel+free+to+buy+me+a+coffee!)](https://ebio.gg/@3bie)
  
  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3609IG)
