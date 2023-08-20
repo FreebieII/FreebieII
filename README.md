@@ -49,8 +49,3 @@ Featured:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3609IG)
 
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/863842742195322920/871857022612697138/0b2f8f4c34bb02bfcdfd77f04824978a.gif" alt="GIF" height="150" style="vertical-align:center; margin:10px">
-</p>
-
-https://freebie.lol/
