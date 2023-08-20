@@ -1,4 +1,5 @@
 
+**https://ebio.gg/@3bie**
 
 # Interests and current projects
 - 🏎 I am a huge fan of Formula 1
@@ -29,12 +30,7 @@ Featured:
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <a href="https://twitter.com/FredzDev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
-<a href="mailto:fred.zapke@outlook.com" target="_blank"><br>
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /></a><br>
-
-[**My Website**](https://freebie.lol/)
-
-
+<br>
 
 # Coding Stuff
 ### Weekly Wakatime Stats
