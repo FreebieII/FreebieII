@@ -4,7 +4,7 @@
 # Interests and current projects
 - 🏎 I am a huge fan of Formula 1
 - ⛏ Minecraft is my go-to game when I am bored 
-- 🤖My strongest skillset is Discord bots
+- 🤖 I enjoy making Discord bots and other random projects, mainly in python.
 - I am currently contributing to [**Reddit TikTok Bot**](https://github.com/elebumm/RedditVideoMakerBot/)
 
 # Big Projects
